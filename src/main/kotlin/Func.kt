@@ -1,8 +1,7 @@
 
-import Car;
 fun main() {
     println(add(1, 2))
-    Car("BMW").drive()
+    Car("Audi").drive()
 }
 
 
